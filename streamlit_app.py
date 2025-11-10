@@ -78,7 +78,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     labels[0]:{"texts":["김세정님은 존나 예쁩니다.진짜 말이 안나와요."],
               "videos":["https://www.youtube.com/watch?v=NkeExG9jEfM&list=RDNkeExG9jEfM&start_radio=1"]},
     labels[1]:{"texts":["김지원님도 진짜 말이 안되게 예쁩니다. 개인적으로 약 9년정도 팬입니다."]
-              "viedos":["https://www.youtube.com/watch?v=pEzCVjoV5BA"]},
+              "videos":["https://www.youtube.com/watch?v=pEzCVjoV5BA"]},
     labels[2]:{"texts":["박은빈님도 굉장히 예쁘고 연기도 잘합니다."]
               "videos":["https://www.youtube.com/watch?v=YPfxjgJDKio"]},
 
