@@ -80,6 +80,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
               "images":["https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2021/01/24/xn9O3dCeYZEI637470784911089604.JPG"]}
     labels[1]:{"texts":["김지원님도 진짜 말이 안되게 예쁩니다.개인적으로 약 9년정도 팬입니다."],
               "videos":["https://www.youtube.com/watch?v=pEzCVjoV5BA"]},
+              "images":["
     labels[2]:{"texts":["박은빈님도 굉장히 예쁘고 연기도 잘합니다."],
               "videos":["https://www.youtube.com/watch?v=YPfxjgJDKio"]},
 
