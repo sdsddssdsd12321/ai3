@@ -82,11 +82,11 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
               "videos":["https://www.youtube.com/watch?v=pEzCVjoV5BA"]},
               "images":["https://entertainimg.kbsmedia.co.kr/cms/uploads/PERSON_20220322153739_a539af23fefc692b09a125497e29290d.jpg"]}
     labels[2]:{"texts":["박은빈님도 굉장히 예쁘고 연기도 잘합니다."],
-              "videos":["https://www.youtube.com/watch?v=YPfxjgJDKio"]
-              ,"images":["https://entertainimg.kbsmedia.co.kr/cms/uploads/PERSON_20230209141959_6eea8f49eb190738f6308d9d59ca188b.jpg"]},
+              "videos":["https://www.youtube.com/watch?v=YPfxjgJDKio"],
+              "images":["https://entertainimg.kbsmedia.co.kr/cms/uploads/PERSON_20230209141959_6eea8f49eb190738f6308d9d59ca188b.jpg"]},
 
     
-},
+}
 
 # ======================
 # 유틸
