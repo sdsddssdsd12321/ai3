@@ -86,7 +86,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
               ,"images":["https://entertainimg.kbsmedia.co.kr/cms/uploads/PERSON_20230209141959_6eea8f49eb190738f6308d9d59ca188b.jpg"]},
 
     
-}
+},
 
 # ======================
 # 유틸
